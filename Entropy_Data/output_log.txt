@@ -1,0 +1,155 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   22.21.13.8569
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\DOTween.dll (this message is harmless)
+Loading F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\学习\作业\大一\C++big\201630665830软件2班魏芸\Entropy\Entropy_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.154 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.253335 ms
+never back
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+data loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 0.366222 ms
+here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 358.
+Total: 0.276889 ms (FindLiveObjects: 0.020000 ms CreateObjectMapping: 0.011111 ms MarkObjects: 0.240444 ms  DeleteObjects: 0.004444 ms)
+
+to level choose panel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.969338 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 388.
+Total: 0.406667 ms (FindLiveObjects: 0.033333 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.266666 ms  DeleteObjects: 0.091555 ms)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 550)
+
+to stage 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440444 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 783.
+Total: 0.288444 ms (FindLiveObjects: 0.033333 ms CreateObjectMapping: 0.016444 ms MarkObjects: 0.204444 ms  DeleteObjects: 0.033777 ms)
+
+pass stage 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.151113 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 0.210666 ms (FindLiveObjects: 0.012000 ms CreateObjectMapping: 0.012000 ms MarkObjects: 0.178666 ms  DeleteObjects: 0.008000 ms)
+
+pass stage 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.830667 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 0.355555 ms (FindLiveObjects: 0.017333 ms CreateObjectMapping: 0.019111 ms MarkObjects: 0.272000 ms  DeleteObjects: 0.045777 ms)
+
+pass stage 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+demo is over now!thanks for playing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.699111 ms
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.424444 ms (FindLiveObjects: 0.016000 ms CreateObjectMapping: 0.011555 ms MarkObjects: 0.184889 ms  DeleteObjects: 0.210666 ms)
+
+to start panel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.516000 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 0.276000 ms (FindLiveObjects: 0.016444 ms CreateObjectMapping: 0.012000 ms MarkObjects: 0.226222 ms  DeleteObjects: 0.020444 ms)
+
+to setting panel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.254222 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 0.381333 ms (FindLiveObjects: 0.016444 ms CreateObjectMapping: 0.012888 ms MarkObjects: 0.285778 ms  DeleteObjects: 0.065777 ms)
+
+BGM switch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sound switch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BGM switch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sound switch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+to start panel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.403555 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 0.316444 ms (FindLiveObjects: 0.016444 ms CreateObjectMapping: 0.012444 ms MarkObjects: 0.242666 ms  DeleteObjects: 0.044000 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 27b8 -> priority: 1 
+  Thread -> id: 33c8 -> priority: 1 
